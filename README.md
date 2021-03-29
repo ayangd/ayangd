@@ -11,8 +11,8 @@ My favorites:
 - 📚 Java
 - 📚 C/C++/C# (C#, usually on Unity3D game engine script)
 - 📄 Python
-- 📄 JavaScript, preferably TypeScript (on HTML, node.js, Java's RhinoScript/Nashorn engine)
-- 📄 x86/x86_64 assembly (on NASM, for OS bootloader stuff)
+- 📄 JavaScript, preferably TypeScript
+- 📄 x86/x86_64 assembly (on NASM, for OS bootloader stuff, CheatEngine)
 
 I encountered:
 - 📃 Pascal (on TurboPascal)
