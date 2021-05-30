@@ -1,5 +1,5 @@
 # Hey 👋 Michael here.
-I am a student @ Binus University, and also an aspiring self-taught programmer. I learn everything cool!
+I am an undergraduate student @ Binus University, and also an aspiring self-taught programmer. I learn everything cool!
 
 I do computer programming, and electronic programming with Arduino. I have basic knowledge of Linux and
 how computer system works.
