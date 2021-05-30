@@ -19,10 +19,6 @@ I encountered:
 - 📃 VB/VB.NET/VBScript (on VB6 and Visual Studio)
 - 📃 LUA (on Minecraft computer mod stuff)
 - 📃 PHP (on Apache)
-
-I tried to learn:
-- 📃 Kotlin
-- 📃 Scala
 - 📃 Singkong (built by one of my lecturer, https://nopri.github.io/)
 
 ### Programming Skills
