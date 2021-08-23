@@ -1,17 +1,17 @@
 # Hey 👋 Michael here.
 I am an undergraduate student @ Binus University, and also an aspiring self-taught programmer. I learn everything cool!
 
-I do computer programming, and electronic programming with Arduino. I have basic knowledge of Linux and
+I do desktop programming, webdev programming, and electronic programming with Arduino. I have basic knowledge of Linux and
 how computer system works.
 
 ## Stuff I have learned
 
 ### Programming Languages
 My favorites:
+- 📚 TypeScript, JavaScript
 - 📚 Java
 - 📚 C/C++/C# (C#, usually on Unity3D game engine script)
 - 📄 Python
-- 📄 JavaScript, preferably TypeScript
 - 📄 x86/x86_64 assembly (on NASM, for OS bootloader stuff, CheatEngine)
 
 I encountered:
@@ -23,11 +23,13 @@ I encountered:
 
 ### Programming Skills
 My Favorites:
+- ❤️‍🔥 ReactJS + expressJS + TypeScript + Sequelize (Full-Stack Webdev)
 - ✈️ OpenGL (Still learning)
 - 🚅 Regex
 - 🎡 Linux cli, env, and build system
 
 I tried:
+- 🧶 Raw HTTP TCP socket communication with C.
 - 🏊 pygame
 - ♾️ numpy/matplotlib
 - 🎮 Unity3D game making
