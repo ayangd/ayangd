@@ -11,10 +11,10 @@ My favorites:
 - 📚 TypeScript, JavaScript
 - 📚 Java
 - 📚 C/C++/C# (C#, usually on Unity3D game engine script)
-- 📄 Python
 - 📄 x86/x86_64 assembly (on NASM, for OS bootloader stuff, CheatEngine)
 
 I encountered:
+- 📄 Python (was my favourite, but lacks type-checking variables)
 - 📃 Pascal (on TurboPascal)
 - 📃 VB/VB.NET/VBScript (on VB6 and Visual Studio)
 - 📃 LUA (on Minecraft computer mod stuff)
