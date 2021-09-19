@@ -22,6 +22,8 @@ I encountered:
 - 📃 Singkong (built by one of my lecturer, https://nopri.github.io/)
 
 ### Programming Skills
+My preffered programming paradigms: Object-Oriented Programming. Refactoring is what I usually do when my code gets too messy. I also like design patterns like Factory, Observer, etc.
+
 My Favorites:
 - ❤️‍🔥 ReactJS + expressJS + TypeScript + Sequelize (Full-Stack Webdev)
 - ✈️ OpenGL (Still learning)
