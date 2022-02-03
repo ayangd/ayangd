@@ -8,15 +8,17 @@ how computer system works.
 
 ### Programming Languages
 My favorites:
-- 📚 TypeScript, JavaScript
+- 📚 (Preferably) TypeScript, JavaScript (React.js, next.js, Sequelize)
 - 📚 Java
-- 📚 C/C++/C# (C#, usually on Unity3D game engine script)
+- 📚 Rust
 - 📄 x86/x86_64 assembly (on NASM, for OS bootloader stuff, CheatEngine)
 
 I encountered:
+- 📚 Go (Hello world program produces big executable)
+- 📚 C/C++/C# (C#, usually on Unity3D game engine script)
 - 📄 Python (was my favourite, but lacks type-checking variables)
 - 📃 Pascal (on TurboPascal)
-- 📃 VB/VB.NET/VBScript (on VB6 and Visual Studio)
+- 📃 VB/VB .NET/VBScript (on VB6 and Visual Studio)
 - 📃 LUA (on Minecraft computer mod stuff)
 - 📃 PHP (on Apache)
 - 📃 Singkong (built by one of my lecturer, https://nopri.github.io/)
@@ -24,14 +26,18 @@ I encountered:
 ### Programming Skills
 My preffered programming paradigms: Object-Oriented Programming. Refactoring is what I usually do when my code gets too messy. I also like design patterns like Factory, Observer, etc.
 
+Still learning:
+- 📃 Domain Driven Design
+- 📃 SOLID principle
+
 My Favorites:
-- ❤️‍🔥 ReactJS + expressJS + TypeScript + Sequelize (Full-Stack Webdev)
-- ✈️ OpenGL (Still learning)
+- ❤️‍🔥 ReactJS + expressJS/next.js + TypeScript + Sequelize (Full-Stack Webdev)
+- ✈️ OpenGL
 - 🚅 Regex
-- 🎡 Linux cli, env, and build system
+- 🎡 Linux cli, env, and build system (I use arch btw)
 
 I tried:
-- 🧶 Raw HTTP TCP socket communication with C.
+- 🧶 Raw HTTP TCP socket communication with C, Go, Rust, Java.
 - 🏊 pygame
 - ♾️ numpy/matplotlib
 - 🎮 Unity3D game making
