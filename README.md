@@ -1,6 +1,4 @@
 # Hey 👋 Michael here.
-I am an undergraduate student @ Binus University, and also an aspiring self-taught programmer. I learn everything cool!
-
 I do desktop programming, webdev programming, and electronic programming with Arduino. I have basic knowledge of Linux and
 how computer system works.
 
@@ -8,14 +6,18 @@ how computer system works.
 
 ### Programming Languages
 My favorites:
-- 📚 (Preferably) TypeScript, JavaScript (React.js, next.js, Sequelize)
-- 📚 Java
+- 📚 TypeScript
 - 📚 Rust
+
+I'm pretty good at:
+- 📄 JavaScript
+- 📚 Java
 - 📄 x86/x86_64 assembly (on NASM, for OS bootloader stuff, CheatEngine)
 
 I encountered:
 - 📚 Go (Hello world program produces big executable)
 - 📚 C/C++/C# (C#, usually on Unity3D game engine script)
+- 📄 Kotlin (better version of Java)
 - 📄 Python (was my favourite, but lacks type-checking variables)
 - 📃 Pascal (on TurboPascal)
 - 📃 VB/VB .NET/VBScript (on VB6 and Visual Studio)
@@ -35,6 +37,10 @@ My Favorites:
 - ✈️ OpenGL
 - 🚅 Regex
 - 🎡 Linux cli, env, and build system (I use arch btw)
+
+I'm pretty good at:
+- 🚡 MVVM (Model View ViewModel)
+- 🚕 Clean Architecture
 
 I tried:
 - 🧶 Raw HTTP TCP socket communication with C, Go, Rust, Java.
