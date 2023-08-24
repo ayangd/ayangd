@@ -3,8 +3,6 @@ I do desktop programming, mobile development, web development, server developmen
 Arduino. I am fluent in navigating with basic Linux (or *nix) commands, and have some understanding about how computer
 system works.
 
-## Stuff I have learned
-
 ## Programming Languages
 My favorites:
 - 📚 TypeScript
